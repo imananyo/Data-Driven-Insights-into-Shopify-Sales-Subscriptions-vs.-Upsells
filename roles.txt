@@ -1,0 +1,7 @@
+
+
+This project analyzed Shopify sales data using Python, Pandas, Seaborn, and Matplotlib to compare revenue from subscriptions vs. post-purchase upsells. Subscriptions provided steady income, 
+while upsells boosted order value. 
+Key insights included churn rates, LTV by segment, 
+and device/traffic impact—guiding data-driven retention 
+and revenue growth strategies.
